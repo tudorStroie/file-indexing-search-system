@@ -1,5 +1,3 @@
-/* STROIE Tudor-Andrei - 314CC */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
